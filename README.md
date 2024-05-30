@@ -31,7 +31,7 @@ Sou um **dev iniciante** em uma jornada 🚀 para dominar a arte de programar! A
 
 ## 📫 Como me Encontrar
 
-- **Email:** [fernandeswallyson5@gmail.com](mailto: fernandeswallyson5@gmail.com)
+- **Email:** [fernandeswallyson5@gmail.com](mailto:fernandeswallyson5@gmail.com)
 
 ## 🌟 Curiosidades
 
