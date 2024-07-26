@@ -1,6 +1,6 @@
 # 👋 Olá, Mundo! Eu sou o [Wall-E! Só para os mais íntimos!] 🌍
 
-![Banner](https://cdn.discordapp.com/attachments/833492504028381184/1245760436360708167/github-header-image.png?ex=6659ec51&is=66589ad1&hm=1a9cf5571f08f0abce7591457c0f7ee7542ea5b1b6ed12dc1e0a9eee0e132acc&!)
+![Banner](github-header-image-1.png)
 
 ## 👨‍💻 Sobre Mim
 
