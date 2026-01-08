@@ -12,22 +12,23 @@ Sou um **dev iniciante** em uma jornada 🚀 para dominar a arte de programar! A
   - Python 🐍
   - JavaScript ☕
   - HTML & CSS 🌐
+  - TypeScript
 
 - **Ferramentas e Tecnologias:**
   - Git & GitHub 🧑‍💻
   - Flask 🥂
   - Bootstrap 👢
+  - Vite
 
 ## 🚧 Projetos em Andamento
 
-- **Meu Primeiro Site** 🌐: Um site simples usando Flask e Bootstrap.
+- **EcoScan - projeto de tcc** 🌐: Um site-app simples de scan de reciclaveis.
 
 ## 📚 Aprendendo Atualmente
 
 - React ⚛️
 - Node.js 🌳
 
-## 🤓 Trocadilhos de Programação
 
 ## 📫 Como me Encontrar
 
